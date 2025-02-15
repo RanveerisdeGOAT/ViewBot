@@ -4,6 +4,9 @@ Author: @RanveerisdeGOAT,
 Co-Authors: Deepseek, Gemini, ChatGPT ;)
 Open source: Free to use, modify and improve: https://github.com/RanveerisdeGOAT?tab=repositories
 (The EXE file may take some time to boot up)
+
+REQUIREMENTS:
+pip install subprocess, PyQt5, pillow, numpy, keyboard, google.generativeai
 """
 
 __author__ = '@RanveerisdeGOAT'
