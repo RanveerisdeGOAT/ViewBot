@@ -4,6 +4,10 @@
 by pressing Ctrl+Y
 </p>
 <p>
-  
+ViewBot v2.1 2025
+Author: @RanveerisdeGOAT,
+Co-Authors: Deepseek, Gemini, ChatGPT ;)
+Open source: Free to use, modify and improve: https://github.com/RanveerisdeGOAT?tab=repositories
+(The EXE file may take some time to boot up)
 </p>
 
