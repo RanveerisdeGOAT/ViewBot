@@ -19,7 +19,8 @@ View bot uses these core components:
 
 1.  **Requirements:**
     *   Python 3.x
-    *   Qt5
+    *   PyQt5
+    *   (Please read REQUIREMENTS.md)
 
 2.  **Installation:**
     *   Clone the repository: `git clone https://github.com/RanveeristdeGOAT/ViewBot.git`
